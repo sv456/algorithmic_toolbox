@@ -1,3 +1,4 @@
+#As sum of 60 consecutive fibonacci series is 0 we can trim input so take m % 60 and n % 60, so now the range is reduced
 #python2
 def sum_fib(m,n):
     if m>n:
